@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-lgvvc7.kujang138bos.online/sitemap.xml
